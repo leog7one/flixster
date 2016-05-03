@@ -10,6 +10,9 @@ gem 'sass-rails'
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '4.0.1'
 
+#simple form
+gem 'simple_form'
+
 # Devise for Authentication
 gem 'devise'
 # Use postgresql as the database for Active Record
